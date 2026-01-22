@@ -1,4 +1,4 @@
-export const cats = Array.from({ length: 15 }, (_, i) => ({
+export const cats = Array.from({ length: 10 }, (_, i) => ({
   id: i,
-  url: `https://cataas.com/cat?width=400&height=500&random=${i}`,
+  url: `https://cataas.com/cat/orange?width=400&height=500&random=${i}`,
 }));
