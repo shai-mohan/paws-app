@@ -87,7 +87,7 @@ h1 {
 .card-stack {
   position: relative;
   width: min(420px, calc(100vw - 32px));
-  height: min(70vh, 520px);
+  height: min(65vh, 480px);
 }
 
 .card {
